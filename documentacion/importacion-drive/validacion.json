@@ -1,0 +1,53 @@
+{
+  "archivos": 119,
+  "por_extension": {
+    ".R": 2,
+    ".py": 95,
+    ".java": 20,
+    ".ipynb": 2
+  },
+  "errores_sintaxis_python": [
+    {
+      "archivo": "innovacion-y-economia-de-datos/01-semestre/04-pensamiento-computacional/material-drive/proyecto/Proy3.py",
+      "linea": 15,
+      "error": "invalid syntax"
+    },
+    {
+      "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/22-ejercicios/10.py",
+      "linea": 8,
+      "error": "'(' was never closed"
+    },
+    {
+      "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/binario/Matriz.py",
+      "linea": 1,
+      "error": "invalid syntax"
+    }
+  ],
+  "copias_identicas_excluidas": [
+    {
+      "source": "programacion-orientada-a-objetos/registro_cine/Boleta.java",
+      "retained": "innovacion-y-economia-de-datos/02-semestre/05-programacion-orientada-a-objetos/material-drive/poo-java/registro-cine/Boleta.java"
+    },
+    {
+      "source": "programacion-orientada-a-objetos/registro_cine/Cliente.java",
+      "retained": "innovacion-y-economia-de-datos/02-semestre/05-programacion-orientada-a-objetos/material-drive/poo-java/registro-cine/Cliente.java"
+    },
+    {
+      "source": "programacion-orientada-a-objetos/registro_cine/Pelicula.java",
+      "retained": "innovacion-y-economia-de-datos/02-semestre/05-programacion-orientada-a-objetos/material-drive/poo-java/registro-cine/Pelicula.java"
+    },
+    {
+      "source": "programacion-orientada-a-objetos/registro_cine/Sala.java",
+      "retained": "innovacion-y-economia-de-datos/02-semestre/05-programacion-orientada-a-objetos/material-drive/poo-java/registro-cine/Sala.java"
+    },
+    {
+      "source": "programacion-orientada-a-objetos/registro_cine/Taquilla.java",
+      "retained": "innovacion-y-economia-de-datos/02-semestre/05-programacion-orientada-a-objetos/material-drive/poo-java/registro-cine/Taquilla.java"
+    }
+  ],
+  "limites": [
+    "No se ejecutaron scripts interactivos.",
+    "No se compilaron proyectos Java.",
+    "No se ejecutaron modelos R ni notebooks de entrenamiento."
+  ]
+}

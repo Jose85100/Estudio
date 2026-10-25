@@ -8,3 +8,8 @@ Bienvenido al repositorio de ejercicios y proyectos de Jose Gabriel Orosco Jimé
 - [Economía](economia/): 74 asignaturas organizadas por nombre en el certificado académico aportado.
 
 Cada asignatura cuenta con un README inicial para organizar apuntes, ejercicios, código, proyectos y referencias. Esta estructura es un índice de estudio; no afirma que los cursos estén desarrollados o completados.
+
+
+## Material académico recuperado
+
+Se incorporaron 119 archivos de Python, Java, R y notebooks desde Drive, organizados en seis asignaturas. Consulta el [inventario y las comprobaciones](documentacion/importacion-drive/) para conocer su procedencia, dependencias y errores pendientes.

@@ -6,7 +6,7 @@ Programa: Innovación y Economía de Datos.
 
 Fuente: oferta compartida por el usuario.
 
-Estado: carpeta de estudio inicial; material pendiente de desarrollar.
+Estado: material académico histórico incorporado; validación funcional pendiente.
 
 ## Organización del material
 
@@ -17,3 +17,7 @@ Estado: carpeta de estudio inicial; material pendiente de desarrollar.
 - Referencias: bibliografía y enlaces, respetando derechos de autor.
 
 Crear las subcarpetas cuando exista material para ellas. Registrar las fuentes y explicar los supuestos de cada ejercicio o implementación.
+
+## Material recuperado
+
+Consultar los [ejercicios y proyectos de Drive](material-drive/), con su procedencia y límites de validación.

@@ -1,0 +1,966 @@
+[
+  {
+    "archivo": "economia/asignaturas/introduccion-a-la-econometria/material-drive/guia-2/Guia 2.R",
+    "origen": "https://drive.google.com/file/d/15VIF9u46cK75ecm2WtLeFTh59mUrEX_7/view?usp=drivesdk",
+    "ruta_origen": "introduccion-a-la-econometria/Guia 2/Guia 2.R",
+    "sha256_original": "e869505f87e62ae13e66a95f2273a9d0dd9c53d3cb1680bd24647d4482fff1ba",
+    "ajustes": [
+      "Directorio absoluto de Windows sustituido por una indicación de ejecución local."
+    ],
+    "validacion": "No ejecutado; material académico histórico."
+  },
+  {
+    "archivo": "economia/asignaturas/introduccion-a-la-econometria/material-drive/guia/Script Guia 1.R",
+    "origen": "https://drive.google.com/file/d/1LhKbE_0XD3IbiKntEY1wNzn5FNi5xOlv/view?usp=drivesdk",
+    "ruta_origen": "introduccion-a-la-econometria/Guía /Script Guia 1.R",
+    "sha256_original": "db64a8cef75f81c7dbf7a503646a1c28d0aefb6e3ff7271ae0f2a3672ea412c1",
+    "ajustes": [
+      "Directorio absoluto de Windows sustituido por una indicación de ejecución local."
+    ],
+    "validacion": "No ejecutado; material académico histórico."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/04-pensamiento-computacional/material-drive/caso-de-estudio-4/Equipo.py",
+    "origen": "https://drive.google.com/file/d/1xj-CqCiE7DlZNNcY8UH0tinUUyCCJF76/view?usp=drivesdk",
+    "ruta_origen": "pensamiento-computacional/Caso de estudio 4/Equipo.py",
+    "sha256_original": "204eeeac77f25a817a8077d97035f1a80b42416d85498385e21b2846a337264c",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/04-pensamiento-computacional/material-drive/caso-de-estudio-7/Actividad 1.py",
+    "origen": "https://drive.google.com/file/d/163gdVmGQEFEqk4EMVYa6TtPVzFJTryQ0/view?usp=drivesdk",
+    "ruta_origen": "pensamiento-computacional/Caso de estudio 7/Actividad 1.py",
+    "sha256_original": "7556e62260fad1cbf08df565405f5d0213c0dcb46fd2bf420747a29a50685c88",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/04-pensamiento-computacional/material-drive/caso-de-estudio-7/Actividad 2.py",
+    "origen": "https://drive.google.com/file/d/1691kGiOvWBfo7e_VHMPVJaQEHU3qtLiO/view?usp=drivesdk",
+    "ruta_origen": "pensamiento-computacional/Caso de estudio 7/Actividad 2.py",
+    "sha256_original": "86e4067ef8219e927884717f64b9fdeedb94efcc460bfdf946999e4804e889f6",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/04-pensamiento-computacional/material-drive/caso-de-estudio-7/Actividad 3.py",
+    "origen": "https://drive.google.com/file/d/169jJze1KUAiupATnt1WOzGbmJftVB88R/view?usp=drivesdk",
+    "ruta_origen": "pensamiento-computacional/Caso de estudio 7/Actividad 3.py",
+    "sha256_original": "e8de6f3b3f8cf7f510dc9bc3a127775c43854f1ce718f40f13d81293d754e6e4",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/04-pensamiento-computacional/material-drive/caso-de-estudio-7/Actividad 4.py",
+    "origen": "https://drive.google.com/file/d/16CMm6RfoDM57e_Qz4cQw5WvDX4HBQQbt/view?usp=drivesdk",
+    "ruta_origen": "pensamiento-computacional/Caso de estudio 7/Actividad 4.py",
+    "sha256_original": "c1d2dbe808463193786137aa1ae423d56383223eba036c1756845ef675e894b1",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/04-pensamiento-computacional/material-drive/caso-de-estudio-7/Actividad 5.py",
+    "origen": "https://drive.google.com/file/d/16DkRc9gA2xiObP-FR8YFGpcYYiJN48vr/view?usp=drivesdk",
+    "ruta_origen": "pensamiento-computacional/Caso de estudio 7/Actividad 5.py",
+    "sha256_original": "63065f6fffcfc7b77cf19bae41d589b9344bced3f467060edbe0f629ba642842",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/04-pensamiento-computacional/material-drive/caso-de-estudio-7/Actividad 6.py",
+    "origen": "https://drive.google.com/file/d/1GxuMwTcQ4WVy4E8zB_5vv0KYHs_aB8-B/view?usp=drivesdk",
+    "ruta_origen": "pensamiento-computacional/Caso de estudio 7/Actividad 6.py",
+    "sha256_original": "8a02910f5a91168f95434c175dd6087708637a39e883865bc3de098444d476bb",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/04-pensamiento-computacional/material-drive/proyecto/Poyecto.py",
+    "origen": "https://drive.google.com/file/d/1p498elSqeJK8hCLTmCmA0o2BXFZOxN34/view?usp=drivesdk",
+    "ruta_origen": "pensamiento-computacional/Proyecto/Poyecto.py",
+    "sha256_original": "bc208793987972a58933848ed4ccf9ffb7c7de7349dab3dc099c1b897813637b",
+    "ajustes": [
+      "Ruta absoluta de equipo personal sustituida por una ruta relativa en datos/."
+    ],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/04-pensamiento-computacional/material-drive/proyecto/Proy1.py",
+    "origen": "https://drive.google.com/file/d/1ognogc-FJldrpcuekFhfh9_bu4PIc02M/view?usp=drivesdk",
+    "ruta_origen": "pensamiento-computacional/Proyecto/Proy1.py",
+    "sha256_original": "0a1f24761ac1e1c2cb828772329d02cc3e191f2cdf83934970aeed35dcb38003",
+    "ajustes": [
+      "Ruta absoluta de equipo personal sustituida por una ruta relativa en datos/."
+    ],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/04-pensamiento-computacional/material-drive/proyecto/Proy2.py",
+    "origen": "https://drive.google.com/file/d/1okNiOTAxRhi06lHmhGqixjU1Dv_nteG-/view?usp=drivesdk",
+    "ruta_origen": "pensamiento-computacional/Proyecto/Proy2.py",
+    "sha256_original": "a7ed9a95ab0a17e6cd5a482e50ec65ba8cf64c698d4e54423d0b872d5a72eea4",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/04-pensamiento-computacional/material-drive/proyecto/Proy3.py",
+    "origen": "https://drive.google.com/file/d/1osGSVj-3dqUxtnhtV1czoRW3dYHHjvBw/view?usp=drivesdk",
+    "ruta_origen": "pensamiento-computacional/Proyecto/Proy3.py",
+    "sha256_original": "5292f5dbcb6887e74f082f1c81a3a8dd20c373720597c08259328faa533df0fd",
+    "ajustes": [],
+    "validacion": "Error de sintaxis original, línea 15: invalid syntax"
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/22-ejercicios/1.py",
+    "origen": "https://drive.google.com/file/d/16zxdrC1jqJSw_ZhjuFceSkZA8Ob2nmqJ/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/22 Ejercicios/1.py",
+    "sha256_original": "62d7a426b9c5cec7e1b19497c8d9998f4eebe20251ff788f747546a066ab5c02",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/22-ejercicios/10.py",
+    "origen": "https://drive.google.com/file/d/179K2DRfMPF7TUnmhwblhgZ0cLg-pDeiM/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/22 Ejercicios/10.py",
+    "sha256_original": "bfeb18de397b7c28960c662e0b1ed0c92903ece51a2a9d2f2eaf6280d0c8f7bd",
+    "ajustes": [],
+    "validacion": "Error de sintaxis original, línea 8: '(' was never closed"
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/22-ejercicios/11.py",
+    "origen": "https://drive.google.com/file/d/17K7r1siP6mS3aRDQnSjrQpjFuIACo5_4/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/22 Ejercicios/11.py",
+    "sha256_original": "e1fbbc6cc3879c55cc6a2a3704ac76e5d82735b464176a013d9b05510bda9c1a",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/22-ejercicios/12.py",
+    "origen": "https://drive.google.com/file/d/16yyUR6jgdnbZSJLux_NybwknuWES5yil/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/22 Ejercicios/12.py",
+    "sha256_original": "fc242d19f1c92d48c3f3fccd8afddb3a7345f7f5b51b04cb13ac13694cfac09e",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/22-ejercicios/13.py",
+    "origen": "https://drive.google.com/file/d/17bSTYe1MWKyNjCei9OGmtFthqc4hpJvE/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/22 Ejercicios/13.py",
+    "sha256_original": "ba9b33b9f2c63b7469f4b6327a4f9b40e532c95a49b2602c0fa5e150ed521c5d",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/22-ejercicios/14.py",
+    "origen": "https://drive.google.com/file/d/17X_jWWhvwSU1DK3bwLRMdU43IZ-_o9pn/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/22 Ejercicios/14.py",
+    "sha256_original": "cd993704f1fa0d7f425c7c24af8951ba6de7697bb2e2ce0f1e073bcdf2a52b58",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/22-ejercicios/15.py",
+    "origen": "https://drive.google.com/file/d/15kloNhsAEkUTa511bKb6tg29NoKDIlGo/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/22 Ejercicios/15.py",
+    "sha256_original": "796aa22a9f8b45c16c84ecba9dd66b939628d4c52b78d685061e9ffb3fc6464a",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/22-ejercicios/16.py",
+    "origen": "https://drive.google.com/file/d/17SevCxnGoWEt3NbvPPMMwdzJwv_G5Ef8/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/22 Ejercicios/16.py",
+    "sha256_original": "284709aca4d9f02bd8d4e2b48a4c5c57fda0230445607844761d5a76b0a5bddb",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/22-ejercicios/17.py",
+    "origen": "https://drive.google.com/file/d/1757PQv6INlO7hIOvBGCY8pAtUPwVYmQv/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/22 Ejercicios/17.py",
+    "sha256_original": "fc9e7ceb79a8a3aba753a63a2cfbc527158611cc889c8d6e7bbeca5f53fa76ba",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/22-ejercicios/18.py",
+    "origen": "https://drive.google.com/file/d/17LYsOb9XYHwAmWdTbp8ftmfmLHLP2Dxl/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/22 Ejercicios/18.py",
+    "sha256_original": "b2a6af23513945f1b39d12abe4011c54b49a350ca612b98dceb7e1a1872c7d62",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/22-ejercicios/19.py",
+    "origen": "https://drive.google.com/file/d/17xf52deT17K0h7Nw0drThiHRNCkgx78v/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/22 Ejercicios/19.py",
+    "sha256_original": "30faf04e11b7b7b638db2dc4c593e1cc0f9605949fdb12381d365f125337435a",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/22-ejercicios/2.py",
+    "origen": "https://drive.google.com/file/d/17GYmNnOj7izVuCyDg_wlYND71g53sQ9R/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/22 Ejercicios/2.py",
+    "sha256_original": "aa7c2a0409c48c55fd57ae4d144aca38fae1d9ecfd25152f3d493b443e4f93c1",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/22-ejercicios/20.py",
+    "origen": "https://drive.google.com/file/d/17a6D6OMXyGHSQqGMwnxvzlhQoneEO8ix/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/22 Ejercicios/20.py",
+    "sha256_original": "b77ad8f1f03ad32f8e45f1ef24e1c14a2096fd1a7caddef6ea24cd1dae29be89",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/22-ejercicios/21.py",
+    "origen": "https://drive.google.com/file/d/17ZLDDgcT-fd14wnCYuOLJvfgUTs0bYnA/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/22 Ejercicios/21.py",
+    "sha256_original": "a0fe1784a48452ddeb3e68eb682fcea7bb05d962b19e45779f91ad889ce95a30",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/22-ejercicios/22.py",
+    "origen": "https://drive.google.com/file/d/17WqqwzWxRFDoR-TVjFmZnKRmNPz7lv8K/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/22 Ejercicios/22.py",
+    "sha256_original": "f1182091f0c62156c5e0531221e6e23a3709da32e4e631cbc40ecd8b7d70961b",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/22-ejercicios/23.py",
+    "origen": "https://drive.google.com/file/d/17Om6jV-oiut8eXRfdEpVCfXHqtcHW83H/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/22 Ejercicios/23.py",
+    "sha256_original": "0af5c0f0731eb40ef6696733b584ebe1bba67c84910c6f0cb6889f98fdc5c1a0",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/22-ejercicios/3.py",
+    "origen": "https://drive.google.com/file/d/17BqWdtwBPsrbaWxEocD9g56FwqBK_0ad/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/22 Ejercicios/3.py",
+    "sha256_original": "d63d4859112a3e990991a606ad2013192f5e3cdf523f73e0d8f6b065b1c4e92c",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/22-ejercicios/4.py",
+    "origen": "https://drive.google.com/file/d/16xIEkuunvZUHYyY2t_dH4y4yRatSwY2U/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/22 Ejercicios/4.py",
+    "sha256_original": "47701983047a9176044082a31e241d19e3d176e4b1df1d337e59d5590cfece7e",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/22-ejercicios/5.py",
+    "origen": "https://drive.google.com/file/d/17OrqGuXjlJtlIUYrQEb_dbwXx6HNqxOu/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/22 Ejercicios/5.py",
+    "sha256_original": "145c87996bc0f0545fcd81983110ac99ddad75cc4a26b30d4d7d992ab2996c5a",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/22-ejercicios/6.py",
+    "origen": "https://drive.google.com/file/d/17PuAG5gJkqfAwH9uJBKvIQ6nO_icHPwf/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/22 Ejercicios/6.py",
+    "sha256_original": "08e4695c1c96ccc6ea153929961fcefb7ddb15dbffd5e577daabfe196a3e358b",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/22-ejercicios/7.py",
+    "origen": "https://drive.google.com/file/d/15h8epeR40YGjMmxPMpRXrzGLECQmT2sE/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/22 Ejercicios/7.py",
+    "sha256_original": "41f045eb79ed70f03b1e8186a2d2d8a8267f0c057ab6f04a6c3505c6da5ba58b",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/22-ejercicios/8.py",
+    "origen": "https://drive.google.com/file/d/17LcPrCxifL1_WAMrvSHS46I9pt4i1wCY/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/22 Ejercicios/8.py",
+    "sha256_original": "01c192359fd3ded43bebf8333a9add9d75df90e52f3c61a2667cfcf17c1b1ae6",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/22-ejercicios/9.py",
+    "origen": "https://drive.google.com/file/d/1735KgIkEc0G-hypGzZiYuJthNCU4zgFO/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/22 Ejercicios/9.py",
+    "sha256_original": "5bd25016ac7318cb83228b6d3335e45c89d0970c6634f047c0421cd45fa97156",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/Arreglo orden.py",
+    "origen": "https://drive.google.com/file/d/1XG3SRqUPcBuXZnPZF1N4dAzHwCQvL8Mi/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Arreglo orden.py",
+    "sha256_original": "1e41b2d387e2cac1bb895a5103b3add1d1cbe3a088ebb33f4b0472324f15b1f3",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/binario/#Binario to decimal.py",
+    "origen": "https://drive.google.com/file/d/1cCWi_CmsVvkITRUDAQT9LL4M-buiAppu/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Binario/#Binario to decimal.py",
+    "sha256_original": "22fbf1cadbaab822959fee0d7667592925ba5c338fd7c490f2e4bbeed6821282",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/binario/#Decimal to Binario.py",
+    "origen": "https://drive.google.com/file/d/1cG1jQFnSmIUF9yjqPsmnol4cC1JqP9mQ/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Binario/#Decimal to Binario.py",
+    "sha256_original": "88a5979b8be3daff63bde79cd605c38526c4883917417bd3cd4e745980b979c1",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/binario/BINARIO CONVERTER.py",
+    "origen": "https://drive.google.com/file/d/1bHRbvzBOz_m07aU_AxUhSCXf5KvLdINL/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Binario/BINARIO CONVERTER.py",
+    "sha256_original": "bc128f2fd8074393571edbc330836b99e9c0a5c743341e0ebc144c7a7628bdbe",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/binario/Matriz.py",
+    "origen": "https://drive.google.com/file/d/1fg-GZv-SuQcNHQh34OYTICVbZe3Y7Zou/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Binario/Matriz.py",
+    "sha256_original": "6da16c8633f621a18458abb6649ed9a940d5a528b49ae34291c69dda6a2adc31",
+    "ajustes": [],
+    "validacion": "Error de sintaxis original, línea 1: invalid syntax"
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/binario/Mul matriz.py",
+    "origen": "https://drive.google.com/file/d/1nztikaPrJ7FhVOeichaxUEmYv7w4AKDG/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Binario/Mul matriz.py",
+    "sha256_original": "cfeaacdace23d3e6c912c9c9259414078c376ed17934fba5f6f5502a9fb435cd",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/binario/Parcial corte 2.py",
+    "origen": "https://drive.google.com/file/d/1mmt9DTkBgnthJRo9oylrCkUl0gWDYQnm/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Binario/Parcial corte 2.py",
+    "sha256_original": "73842a888f244db80e4262d03f23243371a6f311079a0713f6100b254fc129ba",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/binario/Programa len last word.py",
+    "origen": "https://drive.google.com/file/d/1x6rAVDVCbiRr7CpnEDovo7O-qx8Ious2/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Binario/Programa len last word.py",
+    "sha256_original": "44e7dd5534eef5966410b729ffa705270665fe34969a6e5c433b5de6a2bec35d",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/burbuja/1.py",
+    "origen": "https://drive.google.com/file/d/1XaI8YfDCrpRnH6leYR_aeVX9sHf1kMuw/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Burbuja/1.py",
+    "sha256_original": "87f92ba6818d2ba1001901c80771cdec9dd87e918393862c74c8703b17c6b413",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/burbuja/10.py",
+    "origen": "https://drive.google.com/file/d/1YSRQ8FLrBcCkotsCexcn562SSrZejP79/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Burbuja/10.py",
+    "sha256_original": "050f25db4bf99c04a06c599c659746dce9921c3f429c992de67667f8880e5d04",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/burbuja/11.py",
+    "origen": "https://drive.google.com/file/d/1YUagi7X_kv5Lxc53HsxxcoWZ5Tb64BGh/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Burbuja/11.py",
+    "sha256_original": "2d08d943e726d092d431d6d3e91c29c5b3b81e77ce71b4dd2bcbba8088749cae",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/burbuja/12.py",
+    "origen": "https://drive.google.com/file/d/1ZXMxQ5nLLggo9QyNHxsmDUOnAmdoDDHd/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Burbuja/12.py",
+    "sha256_original": "1df36b7cdce04c1ad7c3e0241b2c38551f6c601592e5835848351154e32d6886",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/burbuja/13.py",
+    "origen": "https://drive.google.com/file/d/1ZXQrs8ohb5OjgQOPF4TqqY6Zw7HEZed0/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Burbuja/13.py",
+    "sha256_original": "1a5dd4a487d8597f6e466d0f736cd37abafdc3bfe2dc5c2b9ac0af6bc28c7323",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/burbuja/14.py",
+    "origen": "https://drive.google.com/file/d/1Z_2dPpc1_qqxOjI9MzeJqVi8RfE1Tw1W/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Burbuja/14.py",
+    "sha256_original": "5bc3889bdcd3829fd2263467d6e791243ab70ddf01f826029ede85029a9e2624",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/burbuja/15.py",
+    "origen": "https://drive.google.com/file/d/1YYLGyHQ8cZXoU1eaj8ChmFPX4BvzcIkh/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Burbuja/15.py",
+    "sha256_original": "934b1dd3965cec777872fcda580214683b921131ea6db74d7bbdddf55a329d98",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/burbuja/16.py",
+    "origen": "https://drive.google.com/file/d/1YZaoMe5nlYwKAhj7eqxKInTcu4z_4WpS/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Burbuja/16.py",
+    "sha256_original": "499f9020e8fd9419cd542cb4cbe82a339b8b00f9aa0f955d6e13d878c8697bad",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/burbuja/17.py",
+    "origen": "https://drive.google.com/file/d/1Y_BwmgtWQ7MiqnQA4JFBZhzH8lhDTNgM/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Burbuja/17.py",
+    "sha256_original": "7a1a5320a77a2bc7604393bb4cf2005364afe767fb4a67efb58ce660ea27b879",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/burbuja/18.py",
+    "origen": "https://drive.google.com/file/d/1Yk9ADXFjus5N3O_yhhRPOlX3Eqa_492C/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Burbuja/18.py",
+    "sha256_original": "c99f4fbdaf3785d005443a5c2cc573a298b2220802139686581c188ef4fba2e2",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/burbuja/19.py",
+    "origen": "https://drive.google.com/file/d/1YpkaFQe8XpqFYGeLI-bPCzhCBrrZNjDE/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Burbuja/19.py",
+    "sha256_original": "2247b149cadbee067e4d5707d0cd2b70a7cbc3c229167a334a37e6d5f0675ff3",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/burbuja/2.py",
+    "origen": "https://drive.google.com/file/d/1Xgt_0mOt3ca9ZHgf9aoxfHj5OEqrkO7a/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Burbuja/2.py",
+    "sha256_original": "c778f0ed9c0aa0419717517ed1afade06ba2cbaef15c47fef52a369e93751301",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/burbuja/20.py",
+    "origen": "https://drive.google.com/file/d/1ZCGLaDYNlCo_5P4dmpVQEKV9Gv2AhNzZ/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Burbuja/20.py",
+    "sha256_original": "da8c64cc4adaaa8817f9e7eee18c80694d0af6a19f7c526ba1c88aa91a26ea5c",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/burbuja/21.py",
+    "origen": "https://drive.google.com/file/d/1Yze_FazfHA6-npHt_FsKoA_EEyCVgGQ-/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Burbuja/21.py",
+    "sha256_original": "ff6e53c15a090a253870863d35dab3c5794b07e5e39bd4acf4fb02427a555edd",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/burbuja/22.py",
+    "origen": "https://drive.google.com/file/d/1YvwgBqwCqdnFWGQNkuobixzUadFhNVEy/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Burbuja/22.py",
+    "sha256_original": "c211bd7e070f59b9f88eec96b81039b55ea9104ce63176f12d01864c8099edd1",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/burbuja/23.py",
+    "origen": "https://drive.google.com/file/d/1ZK-HINfkrWwuCMNjzATH_FOgoZPPpQs1/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Burbuja/23.py",
+    "sha256_original": "aeddb30c0c8606b81145740668c5b9d207205fdcfdaf5b9162bb1f82df53f77d",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/burbuja/24.py",
+    "origen": "https://drive.google.com/file/d/1ZL_4wtJ4DoYkTSNNv-jujKerOESO9c4Q/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Burbuja/24.py",
+    "sha256_original": "c9e381a25f975ff8fd2e28492d5b8f172ab98ab6866e6ccf2d40db9b55632aa7",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/burbuja/25.py",
+    "origen": "https://drive.google.com/file/d/1ZUVIniEV2HQLG1E6R5u-AQjyPmlBKLGY/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Burbuja/25.py",
+    "sha256_original": "9a6e02f79e3457537f555b47d6caf2c0dac6dfab64c42c6b7c3e7b7eef4f28b1",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/burbuja/3.py",
+    "origen": "https://drive.google.com/file/d/1XjSnvFNBQDDxias_DteN9av5pEE-YNd6/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Burbuja/3.py",
+    "sha256_original": "05a204a3c526f67bb2e5b7bc43f093af7164be1d09b055e5c4100f37aec69ef2",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/burbuja/4.py",
+    "origen": "https://drive.google.com/file/d/1XmoBp40PnunQTAb7VrhQn48gHomAqRBw/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Burbuja/4.py",
+    "sha256_original": "fd3ce629495f19c6105b9d8ae33749da0481a3c3052082912404991b7dd68e7e",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/burbuja/5.py",
+    "origen": "https://drive.google.com/file/d/1XnpDBynKs30cHIDvjNkeOOQGbslxyb51/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Burbuja/5.py",
+    "sha256_original": "a4e7d701ca4f23b0e420b3a490098d125d98458227aa93d47d391ebfa3c432d8",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/burbuja/6.py",
+    "origen": "https://drive.google.com/file/d/1XnRVc7zd67WFE20lLmM1mWTtBHthYNIR/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Burbuja/6.py",
+    "sha256_original": "df830a4bdd3292ebebf35feb51434c5e45f04053e1c73e32bdb5117c1158059c",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/burbuja/7.py",
+    "origen": "https://drive.google.com/file/d/1Xq_Ir8Vi0Ab7TwXthDCcospd3jLEuBpm/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Burbuja/7.py",
+    "sha256_original": "4ec0b61155f80cb0134e2a3518e06664843b785a987f4f01603a49d56841d084",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/burbuja/8.py",
+    "origen": "https://drive.google.com/file/d/1Y3Ac8rz7A1Li6UDJfulm8Y7I7JPCpnag/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Burbuja/8.py",
+    "sha256_original": "d228118a153b79d853d0a27b55fddd39310764461fb211337b9cd9b1b6c2f6a1",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/burbuja/9.py",
+    "origen": "https://drive.google.com/file/d/1YANe1DtrfiWwhKBnBeroBuu2u_B6NqsV/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Burbuja/9.py",
+    "sha256_original": "b80cd284b8c1ede3e5fd235a5059f59445c5e01d39916531815a4eaf55e47df4",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/burbuja/Propuesto corte 2.py",
+    "origen": "https://drive.google.com/file/d/1Z_YJSVJs_uJs2l6URIpLUygQcT9np0qC/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Burbuja/Propuesto corte 2.py",
+    "sha256_original": "6ee96b4775048c500c73c403e881a95e30756e60faea746534928dbe86181e46",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/Cal while.py",
+    "origen": "https://drive.google.com/file/d/1QcaHIV3rt9_sOTNMd-xvPUCpzGRB-9XU/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Cal while.py",
+    "sha256_original": "79c259f0075762b4eafbdc4f5df7f884c23d87b8e54ab6d28c76400bdab20a16",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/diccionario/Ejercicio.py",
+    "origen": "https://drive.google.com/file/d/17fsH1wulE3hYbkWwxSxRB8duSsm_gWZ-/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Diccionario/Ejercicio.py",
+    "sha256_original": "08f8b2e2338d877fdc2ec72f5ff0fc3a25f72ea4381172c8678c3f36d08380fe",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/diccionario/ManeDiccionarios.py",
+    "origen": "https://drive.google.com/file/d/17aGzRaHLd1_jJ-SPJTpUOyiCQ7gv6M2c/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Diccionario/ManeDiccionarios.py",
+    "sha256_original": "62ec959c0a60b5ba88b262c968f31807383e5cf47d79217c53d5a2af725e1436",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/diccionario/ej2.py",
+    "origen": "https://drive.google.com/file/d/18olVY4m2NMv2QFuY3slQoqnAP7Y1T5P8/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Diccionario/ej2.py",
+    "sha256_original": "6fec3de1534bfb51fe91173e6d0f8825e3357ac23978ca50976ec1abefa35359",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/ejer2/1.py",
+    "origen": "https://drive.google.com/file/d/19Ckl1zuWJAudRNOe2rourcKfImP0N5cN/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Ejer2/1.py",
+    "sha256_original": "3b6f5435af8f1dd86d1609b35f932f34cc6b4819736038f5df114d88cb2e9037",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/ejer2/2.py",
+    "origen": "https://drive.google.com/file/d/199aVFXEiivvdmFuzWEqTmkYA8_hf8a72/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Ejer2/2.py",
+    "sha256_original": "3f9965433d594eb1eba71d0489ded520fc0ba302474075cb770bf9ebe8d7b26c",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/ejer2/3.py",
+    "origen": "https://drive.google.com/file/d/19680pwmaVaQc624moaNcGysSRY2zz3Tm/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Ejer2/3.py",
+    "sha256_original": "3dbb168c7438510088693a69abca32e414dced4aab8274a62bcb6e5cab2252f3",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/ejercicios-nov/Archivos.py",
+    "origen": "https://drive.google.com/file/d/1z_6V8AUJnarxYq7L6Fc4f2t2lMlQBfvE/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Ejercicios nov/Archivos.py",
+    "sha256_original": "3d595ddb4442cd23f2cbd9b4be65262ddc2fc9bd86444f7b724c3a9c6bf68499",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/ejercicios-nov/Heart.py",
+    "origen": "https://drive.google.com/file/d/1zMtQPrlXLkPw6BJeDUd1vQ4bdd_qWj4L/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Ejercicios nov/Heart.py",
+    "sha256_original": "742d1664eb03fd3d58c6c4e5e0d697f67a664c9791d30c8ddb82fd088cd419eb",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/ejercicios-nov/Parcial final 2.py",
+    "origen": "https://drive.google.com/file/d/1Im6JajPZI51o3T1gofkBnYr4NtCzsAf0/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Ejercicios nov/Parcial final 2.py",
+    "sha256_original": "9c11ca293682c25ee4999b0d790a7daef423335d26f335d4ce54fbc6ce7e4f78",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/ejercicios-nov/Taller 1..py",
+    "origen": "https://drive.google.com/file/d/1za9CtB2kca904nLN4u4ZclgZlYCC4N7a/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Ejercicios nov/Taller 1..py",
+    "sha256_original": "30fabefae7266709a22939d6868b108efceda13e6089f3ae1201e2fbc93915a2",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/ejercicios-nov/Taller 2..py",
+    "origen": "https://drive.google.com/file/d/1zkajQOUQysURgKDSgjNLZZ0TfLX_LXkX/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Ejercicios nov/Taller 2..py",
+    "sha256_original": "2abbcf22f5adb6d362ec456fb9c02323f2d8fd3f7cea619e135005aff7ac1eae",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/ejercicios-nov/Traductor morse.py",
+    "origen": "https://drive.google.com/file/d/1FCEzhZK_pgqLws-HtAA5x4GQbVJ1eNPk/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Ejercicios nov/Traductor morse.py",
+    "sha256_original": "f586d1a763e66efb5184e7b06bad756057454b5e11f9dcce3e49e76fbdaa2ac4",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/ejercicios-nov/dibjarRecta.py",
+    "origen": "https://drive.google.com/file/d/1z2b41j5f6rkCGp__E_2bZpji0QN6b06z/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Ejercicios nov/dibjarRecta.py",
+    "sha256_original": "1bef848d55af0465c2eb94a4d9fe9360088e3ea07830709fc56102c0fefeb5fd",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/Identificar número primo.py",
+    "origen": "https://drive.google.com/file/d/1500M8d4KaRMr7y5Uec7dSj7rT1sU7drf/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Identificar número primo.py",
+    "sha256_original": "4bcfe9dc274520e79c1df995bf1b88c591e07b34ea32c40b06f8ff3de124031f",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/Parcial.py",
+    "origen": "https://drive.google.com/file/d/1POw5yM9FzDLxxanQNN0hV50xcHdp_xM8/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Parcial.py",
+    "sha256_original": "a0ae6bb0a73b5ea7476366bf35c5d7ea19467770c1e780be5ecb81fd08babc5d",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/prop1/Punto 1.py",
+    "origen": "https://drive.google.com/file/d/195UbOYyH46KV0Lai-8TWulpNxQgmLFkf/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Prop1/Punto 1.py",
+    "sha256_original": "a9aff6a7fbdb7878829d74a3f174572b1608aa75c82322f928ee24c44c8679d0",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/prop1/Punto 2.py",
+    "origen": "https://drive.google.com/file/d/195yEYy1Pb5xo-KuuwuqIGIMuRtfo_d_9/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Prop1/Punto 2.py",
+    "sha256_original": "96c88c4712ea891a303ef3aaeb65a2d7f8aa78129a47cf6625b49f9028c1588f",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/taller-funciones/1.py",
+    "origen": "https://drive.google.com/file/d/1rHr13koncLb3teXOhqZYLUMgX2s5Immm/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Taller funciones/1.py",
+    "sha256_original": "76a3effd8efb76b289528c1905ad9856e0e4b923c54f95536aaeb8ab0103d4da",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/taller-funciones/2.py",
+    "origen": "https://drive.google.com/file/d/1rLe4b7ESC4AHHU-ESm59Lb1-NkFaKVLi/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Taller funciones/2.py",
+    "sha256_original": "ecb3f7eaf242b69df8fcf50679528bc53bef7ff33da8445f8c82f86e4c249e51",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/taller-funciones/3.py",
+    "origen": "https://drive.google.com/file/d/1rOr-06ocYREgd3yL_GRFAkv4ptgFSX2T/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Taller funciones/3.py",
+    "sha256_original": "2f692e7d79b1e95f6c30e502b8279163ffd1119bb257c0ed7b1958a094c6ad35",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/taller-funciones/Tarea verif. correo.py",
+    "origen": "https://drive.google.com/file/d/1vQEc6rWqW5ZciGhiPTFz7GGPnOqMEJ5y/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Taller funciones/Tarea verif. correo.py",
+    "sha256_original": "8f0653fa7661d10849671dfc9d4f424d1272c29f8fb46e6ad80f5976c1aed9a4",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/taller-if-y-for-ciclos/Hora.py",
+    "origen": "https://drive.google.com/file/d/18MPLt4lvF9KKQ4qL4v_YYYMOKeKnB38p/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Taller if y for ciclos/Hora.py",
+    "sha256_original": "f51f895b6cd13d086640da1c022ee18d251de29ee1d2561ad0c97300638b4493",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/taller-if-y-for-ciclos/Pos primo.py",
+    "origen": "https://drive.google.com/file/d/18PrIszoxRTgrL3vurhPc8GRD_UNeveuH/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Taller if y for ciclos/Pos primo.py",
+    "sha256_original": "225b842f48136d8c8bad41f070b43fcd9bc0c6950fb117a3c68c296651c29bfd",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/taller-if-y-for-ciclos/Quiz 2.py",
+    "origen": "https://drive.google.com/file/d/185bMkzjTUspZMEHzF7PISSOSwJ5UfyL5/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Taller if y for ciclos/Quiz 2.py",
+    "sha256_original": "ce935526bd60bcad4789d822063dbb1e48b27d7685a0333673cd44b7ac36d6ad",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/taller-if-y-for-ciclos/Quiz1.py",
+    "origen": "https://drive.google.com/file/d/18_FZlqjzjRUXQSOT4UpfexLfthfIl2MO/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Taller if y for ciclos/Quiz1.py",
+    "sha256_original": "1bb755ee9f619bd4c91a2a2405459de8effbb8a898b61fb6bbfe8cdab9267b2a",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/01-semestre/06-programacion-imperativa-basica/material-drive/taller-if-y-for-ciclos/Tabla.py",
+    "origen": "https://drive.google.com/file/d/18aU5dav5T_Od_6RxecH0QKVzjIMAJAqD/view?usp=drivesdk",
+    "ruta_origen": "programacion-imperativa/Taller if y for ciclos/Tabla.py",
+    "sha256_original": "9df9ea111ddcf6348a69a5c328c302615d431bfd1b715a08d76c7e19a50ff50c",
+    "ajustes": [],
+    "validacion": "Sintaxis Python válida; comportamiento no validado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/02-semestre/05-programacion-orientada-a-objetos/material-drive/poo-java/electrodomesticos/Aspiradora.java",
+    "origen": "https://drive.google.com/file/d/1eyb5P2mG09rhB4sqImk4WNGoEtPYcTCZ/view?usp=drivesdk",
+    "ruta_origen": "programacion-orientada-a-objetos/POO JAVA/electrodomesticos/Aspiradora.java",
+    "sha256_original": "df0b94da00c37e86389165e588da7a1f6e0930f3a699b82d372c8536566ae552",
+    "ajustes": [],
+    "validacion": "No ejecutado; material académico histórico."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/02-semestre/05-programacion-orientada-a-objetos/material-drive/poo-java/electrodomesticos/Brilladora.java",
+    "origen": "https://drive.google.com/file/d/126RtRdYw8AmswJthGJoe5AYq6Lx5_y6F/view?usp=drivesdk",
+    "ruta_origen": "programacion-orientada-a-objetos/POO JAVA/electrodomesticos/Brilladora.java",
+    "sha256_original": "d1a7fcaf476305b3019795e2e37668dc396b6f4e3147454f34d8309bd2007dae",
+    "ajustes": [],
+    "validacion": "No ejecutado; material académico histórico."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/02-semestre/05-programacion-orientada-a-objetos/material-drive/poo-java/electrodomesticos/Electrodomesticos.java",
+    "origen": "https://drive.google.com/file/d/1yLMDCrC01v341aq7DpH20O-herIjhf73/view?usp=drivesdk",
+    "ruta_origen": "programacion-orientada-a-objetos/POO JAVA/electrodomesticos/Electrodomesticos.java",
+    "sha256_original": "5bab88f7a6f0845711be61000a8106f3b6441c296a4a80e2b910915ea7fe47f5",
+    "ajustes": [],
+    "validacion": "No ejecutado; material académico histórico."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/02-semestre/05-programacion-orientada-a-objetos/material-drive/poo-java/electrodomesticos/Ventilador.java",
+    "origen": "https://drive.google.com/file/d/1rw6za2Dgju0FAqzlFVEeD7zLPVHT3mX8/view?usp=drivesdk",
+    "ruta_origen": "programacion-orientada-a-objetos/POO JAVA/electrodomesticos/Ventilador.java",
+    "sha256_original": "379e4611c41cf4714c0e2d3d5fe12a222ff879b987d8330dcd0d4439bbfef603",
+    "ajustes": [],
+    "validacion": "No ejecutado; material académico histórico."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/02-semestre/05-programacion-orientada-a-objetos/material-drive/poo-java/electrodomesticos/main.java",
+    "origen": "https://drive.google.com/file/d/14sPOvd1moSokSQkG15B7VoU6m9OPrIG2/view?usp=drivesdk",
+    "ruta_origen": "programacion-orientada-a-objetos/POO JAVA/electrodomesticos/main.java",
+    "sha256_original": "877985ddcaa00f108af5720fd4a225103d45091b1194940408f93a29134233a8",
+    "ajustes": [],
+    "validacion": "No ejecutado; material académico histórico."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/02-semestre/05-programacion-orientada-a-objetos/material-drive/poo-java/hospital/Asignador.java",
+    "origen": "https://drive.google.com/file/d/1SbR9CqfQLNFwIXXvERGg_ns19WA1jpBj/view?usp=drivesdk",
+    "ruta_origen": "programacion-orientada-a-objetos/POO JAVA/hospital/Asignador.java",
+    "sha256_original": "ceb2043cfb72f04e42506ce125606199d21e5a764e888b5f1b4b23bd5e9afe07",
+    "ajustes": [],
+    "validacion": "No ejecutado; material académico histórico."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/02-semestre/05-programacion-orientada-a-objetos/material-drive/poo-java/hospital/Cita.java",
+    "origen": "https://drive.google.com/file/d/1TapD-n0nAOSOC_avkZiC4ZZ-kOWPXU0J/view?usp=drivesdk",
+    "ruta_origen": "programacion-orientada-a-objetos/POO JAVA/hospital/Cita.java",
+    "sha256_original": "a1d20294d7e59045d68299430600e5aaadc75a87ae0edcf7504a228d41e9e263",
+    "ajustes": [],
+    "validacion": "No ejecutado; material académico histórico."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/02-semestre/05-programacion-orientada-a-objetos/material-drive/poo-java/hospital/Doctor.java",
+    "origen": "https://drive.google.com/file/d/1d1U1wR2eTDk57MQv8RNDxEJYJn8Vgua-/view?usp=drivesdk",
+    "ruta_origen": "programacion-orientada-a-objetos/POO JAVA/hospital/Doctor.java",
+    "sha256_original": "622d4fa9fb97a605b24ca81e32b4bba8f80064cbee822ca7fbf952e01d00aec0",
+    "ajustes": [],
+    "validacion": "No ejecutado; material académico histórico."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/02-semestre/05-programacion-orientada-a-objetos/material-drive/poo-java/hospital/NewClass.java",
+    "origen": "https://drive.google.com/file/d/1Aa2bH0UsPkVibIjv4t2cA-H5_Ox7LTLf/view?usp=drivesdk",
+    "ruta_origen": "programacion-orientada-a-objetos/POO JAVA/hospital/NewClass.java",
+    "sha256_original": "5c7c5fdbe7d17d3f66a4df337b44a02a238ad1220ff0dd92f2b544a0046d6766",
+    "ajustes": [],
+    "validacion": "No ejecutado; material académico histórico."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/02-semestre/05-programacion-orientada-a-objetos/material-drive/poo-java/hospital/Paciente.java",
+    "origen": "https://drive.google.com/file/d/130H0HTfG91rqUvmlsYSUt2Q1lZuZ4t8B/view?usp=drivesdk",
+    "ruta_origen": "programacion-orientada-a-objetos/POO JAVA/hospital/Paciente.java",
+    "sha256_original": "9973c768395be45a5efa2be68159f244528f28a1a1d70d698c6595a0baa40a12",
+    "ajustes": [],
+    "validacion": "No ejecutado; material académico histórico."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/02-semestre/05-programacion-orientada-a-objetos/material-drive/poo-java/prueba-profe/Boleto.java",
+    "origen": "https://drive.google.com/file/d/1OrRYuHhoZ-Mogz8epPlTtJ7hyKXeF3U4/view?usp=drivesdk",
+    "ruta_origen": "programacion-orientada-a-objetos/POO JAVA/prueba profe/Boleto.java",
+    "sha256_original": "d5295cc3373f013e451050a16c4d6ff7b0fda81012cde994b1aad23bac274612",
+    "ajustes": [],
+    "validacion": "No ejecutado; material académico histórico."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/02-semestre/05-programacion-orientada-a-objetos/material-drive/poo-java/prueba-profe/Pelicula.java",
+    "origen": "https://drive.google.com/file/d/1SzvmZVH1akEgDyp8oNZZQtufktdad9lP/view?usp=drivesdk",
+    "ruta_origen": "programacion-orientada-a-objetos/POO JAVA/prueba profe/Pelicula.java",
+    "sha256_original": "0ffbe188b0d9356ff8a883eeea14ac430cb01e5ba455fd83188584637a845017",
+    "ajustes": [],
+    "validacion": "No ejecutado; material académico histórico."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/02-semestre/05-programacion-orientada-a-objetos/material-drive/poo-java/prueba-profe/Persona.java",
+    "origen": "https://drive.google.com/file/d/1YGyxUFWtbN6mx2scA821ard0TdrjWO78/view?usp=drivesdk",
+    "ruta_origen": "programacion-orientada-a-objetos/POO JAVA/prueba profe/Persona.java",
+    "sha256_original": "bd93edc69566ebe2c9863db287131bcfbcb0446056af951c8faf83530f9e48e0",
+    "ajustes": [],
+    "validacion": "No ejecutado; material académico histórico."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/02-semestre/05-programacion-orientada-a-objetos/material-drive/poo-java/prueba-profe/Prueba.java",
+    "origen": "https://drive.google.com/file/d/1rjI2G_v82V9ooS9DzvI7VCfsZNiyMObw/view?usp=drivesdk",
+    "ruta_origen": "programacion-orientada-a-objetos/POO JAVA/prueba profe/Prueba.java",
+    "sha256_original": "7b89763ed1c34f90ab7c33e088dbc5dc2fdd61cf5441269dd4ef06229ea0fe77",
+    "ajustes": [],
+    "validacion": "No ejecutado; material académico histórico."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/02-semestre/05-programacion-orientada-a-objetos/material-drive/poo-java/prueba-profe/Sala.java",
+    "origen": "https://drive.google.com/file/d/1xdEuL07VbeBUk7jubzeH3zr0VawdbYlu/view?usp=drivesdk",
+    "ruta_origen": "programacion-orientada-a-objetos/POO JAVA/prueba profe/Sala.java",
+    "sha256_original": "7ef0d865c74aae4c0a41823f5290db3147e8323086e07bc97a4cf8cb50292e2e",
+    "ajustes": [],
+    "validacion": "No ejecutado; material académico histórico."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/02-semestre/05-programacion-orientada-a-objetos/material-drive/poo-java/registro-cine/Boleta.java",
+    "origen": "https://drive.google.com/file/d/1CZOUmMhH0b4kZxzEqpj82pm5ZNGygYTQ/view?usp=drivesdk",
+    "ruta_origen": "programacion-orientada-a-objetos/POO JAVA/registro_cine/Boleta.java",
+    "sha256_original": "6626e144900bf3542688c5c8a98ed0cca919e43deb8ed6bcef537b8f1866b375",
+    "ajustes": [],
+    "validacion": "No ejecutado; material académico histórico."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/02-semestre/05-programacion-orientada-a-objetos/material-drive/poo-java/registro-cine/Cliente.java",
+    "origen": "https://drive.google.com/file/d/1mmGtUlUYG9qV5F8gQqEnVW1HAZk-z7_U/view?usp=drivesdk",
+    "ruta_origen": "programacion-orientada-a-objetos/POO JAVA/registro_cine/Cliente.java",
+    "sha256_original": "61dcd222bd670ad19e4210f7a1a13eac5f2431d1be99b712b810e461d31c2a75",
+    "ajustes": [],
+    "validacion": "No ejecutado; material académico histórico."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/02-semestre/05-programacion-orientada-a-objetos/material-drive/poo-java/registro-cine/Pelicula.java",
+    "origen": "https://drive.google.com/file/d/1vsnDzbbEfm6wad-icG9yie1qBFmwN1JN/view?usp=drivesdk",
+    "ruta_origen": "programacion-orientada-a-objetos/POO JAVA/registro_cine/Pelicula.java",
+    "sha256_original": "6a3e5ee34adacd75f0cea08fb7a81d4cfc383e9fbbe2a663f380b2b140a1898b",
+    "ajustes": [],
+    "validacion": "No ejecutado; material académico histórico."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/02-semestre/05-programacion-orientada-a-objetos/material-drive/poo-java/registro-cine/Sala.java",
+    "origen": "https://drive.google.com/file/d/1vPuBhZZY6IqPMUOPJ1P3s4De1h9JHk0a/view?usp=drivesdk",
+    "ruta_origen": "programacion-orientada-a-objetos/POO JAVA/registro_cine/Sala.java",
+    "sha256_original": "658ddf4a88d1a5bd4fe95929114f3f5e04232bb3483318b8036ac46b479943c1",
+    "ajustes": [],
+    "validacion": "No ejecutado; material académico histórico."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/02-semestre/05-programacion-orientada-a-objetos/material-drive/poo-java/registro-cine/Taquilla.java",
+    "origen": "https://drive.google.com/file/d/1MX7QZMm_yJmkP0FzGcm7DrValmsg41iZ/view?usp=drivesdk",
+    "ruta_origen": "programacion-orientada-a-objetos/POO JAVA/registro_cine/Taquilla.java",
+    "sha256_original": "81615a86d771c1c03682dc8b440efb9c265ea913c8aaff29f068eb680ef7ab95",
+    "ajustes": [],
+    "validacion": "No ejecutado; material académico histórico."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/09-enfasis/03-redes-neuronales-para-la-clasificacion-de-imagenes/material-drive/parcial-1-redes-neuronales.ipynb",
+    "origen": "https://drive.google.com/file/d/15y2LPNxWAH7WVIdQN-jOWcOJ3TdGJiGh/view?usp=drivesdk",
+    "ruta_origen": "redes-neuronales-para-la-clasificacion-de-imagenes/parcial-1-redes-neuronales.ipynb",
+    "sha256_original": "1decccf238bb260f1717122eaaf9615dee8d0a094ff6228d3e0618dd9a4f4d2a",
+    "ajustes": [
+      "Salidas y metadatos de ejecución eliminados; ruta de datos local cuando corresponde."
+    ],
+    "validacion": "JSON válido; salidas vacías; entrenamiento no ejecutado."
+  },
+  {
+    "archivo": "innovacion-y-economia-de-datos/09-enfasis/05-rendimiento-de-algoritmos/material-drive/parcial-1-metricas-de-rendimiento.ipynb",
+    "origen": "https://drive.google.com/file/d/1fb0e-HhHTGOfXHRgv7_RNc-Fx5qyivBJ/view?usp=drivesdk",
+    "ruta_origen": "rendimiento-de-algoritmos/parcial-1-metricas-de-rendimiento.ipynb",
+    "sha256_original": "2367cdab70ad98f395c4aa4310e242acc0978065a9f3944a1f43fbaf20183b4e",
+    "ajustes": [
+      "Salidas y metadatos de ejecución eliminados; ruta de datos local cuando corresponde."
+    ],
+    "validacion": "JSON válido; salidas vacías; entrenamiento no ejecutado."
+  }
+]
