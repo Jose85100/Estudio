@@ -5,6 +5,6 @@ Bienvenido al repositorio de ejercicios y proyectos de Jose Gabriel Orosco Jimé
 ## Estudios por programa y asignatura
 
 - [Innovación y Economía de Datos](innovacion-y-economia-de-datos/): ocho semestres, 41 espacios académicos y ocho asignaturas de énfasis.
-- [Economía](economia/): 76 asignaturas identificadas por código en el certificado académico aportado.
+- [Economía](economia/): 74 asignaturas organizadas por nombre en el certificado académico aportado.
 
 Cada asignatura cuenta con un README inicial para organizar apuntes, ejercicios, código, proyectos y referencias. Esta estructura es un índice de estudio; no afirma que los cursos estén desarrollados o completados.
