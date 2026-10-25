@@ -15,3 +15,51 @@ Estado: carpeta de estudio inicial; material pendiente de desarrollar.
 - Referencias: bibliografía y enlaces, respetando derechos de autor.
 
 Crear las subcarpetas cuando exista material para ellas. Registrar las fuentes y explicar los supuestos de cada ejercicio o implementación.
+
+<!-- plan-estudio-propuesto:inicio -->
+## Plan de estudio propuesto
+
+Guía de contenidos mínimos para organizar el estudio de esta asignatura. Es una propuesta del repositorio: no sustituye el programa oficial ni establece créditos, horas, prerrequisitos administrativos o criterios de aprobación de la universidad.
+
+### Conocimientos previos recomendados
+
+Base técnica del área y coordinación con Énfasis I.
+
+### Resultados de aprendizaje
+
+Al completar esta ruta se debería poder:
+
+- Comparar enfoques del área seleccionada.
+- Complementar la formación sin duplicar el énfasis anterior.
+
+### Contenidos que se deben estudiar
+
+1. Selección de línea complementaria.
+2. Profundización conceptual.
+3. Comparación de métodos.
+4. Laboratorio y experimentación.
+5. Robustez y revisión crítica.
+6. Integración con la ruta profesional.
+
+### Actividades y evidencias
+
+- Lecturas y casos que contrasten al menos dos explicaciones o alternativas de decisión.
+- Un diagnóstico con fuentes, supuestos y criterios explícitos para evaluar alternativas.
+- Un avance del proyecto y una revisión que incorpore retroalimentación y límites de la evidencia.
+
+### Proyecto integrador sugerido
+
+Desarrollar un proyecto complementario a Énfasis I con criterios de evaluación del área elegida.
+
+### Qué debe incluir el material de la asignatura
+
+- Apuntes de las seis unidades: conceptos, ejemplos, preguntas y conexiones con otras materias.
+- Ejercicios o actividades resueltas con razonamiento; distinguir trabajo propio y material de referencia.
+- Evidencias del proyecto: objetivo, método, resultados, limitaciones y conclusiones sustentadas.
+- Referencias completas y verificadas; registrar autor, título, edición o fecha y enlace cuando corresponda.
+- Código, datos o anexos cuando sean pertinentes, con instrucciones y condiciones de uso.
+
+### Criterios de revisión del aprendizaje
+
+Se revisará la comprensión conceptual, la calidad del razonamiento, la aplicación al problema y la claridad de la comunicación. Cada resultado de aprendizaje debe tener una evidencia observable en los ejercicios o el proyecto. Las conclusiones deben reconocer sus supuestos y límites; una ejecución sin errores no basta para demostrar comprensión. Las ponderaciones y el calendario se definirán según el curso concreto.
+<!-- plan-estudio-propuesto:fin -->

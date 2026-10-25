@@ -78,3 +78,7 @@ Los períodos del certificado son períodos de registro e incluyen homologacione
 - [ENERGÍAS RENOVABLES](asignaturas/energias-renovables/)
 - [INFORMATICA 1](asignaturas/informatica-1/)
 - [INFORMATICA 2](asignaturas/informatica-2/)
+
+## Contenidos y ruta de estudio
+
+Los README de las asignaturas incluyen conocimientos previos recomendados, resultados de aprendizaje, seis unidades temáticas, actividades, un proyecto integrador y criterios de revisión. Consulta la [guía de planes de estudio](../documentacion/plan-de-estudio/README.md). Los contenidos son propuestas de formación; las electivas y los espacios de énfasis se concretan al seleccionar la asignatura.

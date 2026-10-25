@@ -13,3 +13,7 @@ Cada asignatura cuenta con un README inicial para organizar apuntes, ejercicios,
 ## Material académico recuperado
 
 Se incorporaron 119 archivos de Python, Java, R y notebooks desde Drive, organizados en seis asignaturas. Consulta el [inventario y las comprobaciones](documentacion/importacion-drive/) para conocer su procedencia, dependencias y errores pendientes.
+
+## Contenidos y ruta de estudio
+
+Los README de las asignaturas incluyen conocimientos previos recomendados, resultados de aprendizaje, seis unidades temáticas, actividades, un proyecto integrador y criterios de revisión. Consulta la [guía de planes de estudio](documentacion/plan-de-estudio/README.md). Los contenidos son propuestas de formación; las electivas y los espacios de énfasis se concretan al seleccionar la asignatura.
